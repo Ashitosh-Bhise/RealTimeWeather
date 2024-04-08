@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App]([https://github.com/facebook/create-react-app](https://real-time-weather-ten.vercel.app/)).
+Live link - https://real-time-weather-ten.vercel.app/
 
 ## Available Scripts
 
